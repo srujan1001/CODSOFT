@@ -37,3 +37,7 @@ password_display.grid(row=2, columnspan=2, padx=10, pady=10)
 
 # Run the GUI main loop
 window.mainloop()
+
+
+
+
